@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development, React, Node.js, Product Engineering**
 
-- 📫 How to reach me **sabbir@crit.so**
+- 📫 How to reach me **[twitter/X](https://twitter.com/innovataur)**
 
 - 📄 Know about my experiences [/in/sabbirahm](https://www.linkedin.com/in/sabbirahm)
 
