@@ -5,10 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="thesabbir" /> </p>
 <p align="left"> <a href="https://twitter.com/innovataur" target="blank"><img src="https://img.shields.io/twitter/follow/innovataur?logo=twitter&style=for-the-badge" alt="innovataur" /></a> </p>
 
-- 🔭 I’m currently working on [ngaze](https://ngaze.co)
-
-- 🌱 I’m currently learning **how to scale gamified apps**
-
 - 👨‍💻 All of my open source projects are available at [https://github.com/thesabbir](https://github.com/thesabbir)
 
 - 💬 Ask me about **Web Development, React, Node.js, Product Engineering**
