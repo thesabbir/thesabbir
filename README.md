@@ -3,4 +3,4 @@
 
 
 
-- 📫 How to reach me **[twitter/X](https://x.com/sabbbbbir)**
+- 📫 How to reach me **[twitter/X](https://x.com/expectcuriously)**
